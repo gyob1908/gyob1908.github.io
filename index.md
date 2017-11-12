@@ -13,8 +13,7 @@ Evaluating the merits of Survey and Observational Data in National Election Stud
 
 # Corporate Partners
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/10 YouGov with Brand Line (Vertical).png)
 
 
 # Project Description 
