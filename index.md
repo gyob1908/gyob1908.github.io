@@ -14,7 +14,7 @@ Evaluating the merits of Survey and Observational Data in National Election Stud
 # Partner Organisation
 
 ![YouGov Logo](https://github.com/gyob1908/gyob1908.github.io/blob/master/YouGov-Logo.png)
-
+Format: ![Alt Text](url)
 
 # Project Description 
 This PhD project will build on the existing 2015 internet module of the British Election Study (iBES) collected by YouGov that merges survey and observational social media data. The primary goal is methodological in nature, and focuses on evaluating the validity and robustness of each data source as a measure of political attitudes and behaviour.
@@ -28,5 +28,4 @@ This PhD will match survey respondents’ online activities; the websites they v
 # Funded by ESRC
 
 ![ESRC Logo](https://github.com/gyob1908/gyob1908.github.io/blob/master/ESRC%20Logo.jpg)
-
-
+Format: ![Alt Text](url)
