@@ -4,9 +4,9 @@ title: Online Portfolio
 
 # Oliver Beatson
 
-## University of Manchester
+### University of Manchester
 
-## School of Social Statistics
+### School of Social Statistics
 
 # Project Title
 Evaluating the merits of Survey and Observational Data in National Election Studies
