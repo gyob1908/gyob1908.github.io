@@ -11,9 +11,9 @@ title: Online Portfolio
 # Project Title
 Evaluating the merits of Survey and Observational Data in National Election Studies
 
-# Corporate Partners
+# Partner Organisations
 
-![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/10 YouGov with Brand Line (Vertical).png)
+![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/YouGov-Logo.png)
 
 
 # Project Description 
