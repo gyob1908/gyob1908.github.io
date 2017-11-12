@@ -13,7 +13,8 @@ Evaluating the merits of Survey and Observational Data in National Election Stud
 
 # Corporate Partners
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 # Project Description 
