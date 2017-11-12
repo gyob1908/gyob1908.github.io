@@ -6,7 +6,7 @@ title: Online Portfolio
 
 ## University of Manchester
 
-### School of Social Statistics
+## School of Social Statistics
 
 # Project Title
 Evaluating the merits of Survey and Observational Data in National Election Studies
