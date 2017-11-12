@@ -13,7 +13,7 @@ Evaluating the merits of Survey and Observational Data in National Election Stud
 
 # Partner Organisations
 
-![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/YouGov-Logo.png)
+![YouGov Logo](https://github.com/gyob1908/gyob1908.github.io/blob/master/YouGov-Logo.png)
 
 
 # Project Description 
