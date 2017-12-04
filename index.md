@@ -8,12 +8,15 @@ title: Online Portfolio
 
 ### School of Social Statistics
 
+
 # Project Title
 Evaluating the merits of Survey and Observational Data in National Election Studies
 
 # Partner Organisation
 
 ![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/YouGov-Logo.png)
+
+[YouGov!](https://yougov.co.uk)
 
 # Project Description 
 This PhD project will build on the existing 2015 internet module of the British Election Study (iBES) collected by YouGov that merges survey and observational social media data. The primary goal is methodological in nature, and focuses on evaluating the validity and robustness of each data source as a measure of political attitudes and behaviour.
@@ -27,3 +30,7 @@ This PhD will match survey respondents’ online activities; the websites they v
 # Funded by ESRC
 
 ![ESRC Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/ESRC%20Logo.jpg)
+
+[ESRC!](http://www.esrc.ac.uk)
+[Centre for Doctoral Training](https://datacdt.org)
+
