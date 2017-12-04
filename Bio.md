@@ -3,9 +3,8 @@ title: Oliver Beatson - Bio
 ---
 
 # **Oliver Beatson**
-
-### University of Manchester
-### School of Social Statistics
+University of Manchester
+School of Social Statistics
 
 # About
 
