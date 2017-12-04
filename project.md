@@ -2,6 +2,12 @@
 title: Oliver Beatson - Project
 ---
 
+# Oliver Beatson
+
+### University of Manchester
+
+### School of Social Statistics
+
 # Project Title
 Evaluating the merits of Survey and Observational Data in National Election Studies
 
