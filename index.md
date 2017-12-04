@@ -16,7 +16,7 @@ This website has been created as part of the Programming for Social Science modu
 
 [Github](https://github.com/gyob1908)
 
-# Project Partners and Funding
+# Project Partners and Funding Bodies
 
 ![ESRC Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/ESRC%20Logo.jpg) 
 
