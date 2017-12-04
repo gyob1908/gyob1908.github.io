@@ -8,12 +8,13 @@ title: Oliver Beatson
 
 ### School of Social Statistics
 
-[Biography](https://datacdt.org)
+[Biography](https://gyob1908.github.io/bio)
 
-[Project](https://datacdt.org)
+[Project](https://gyob1908.github.io/project)
 
-# Funded by ESRC
+[Github](https://github.com/gyob1908)
 
-![ESRC Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/ESRC%20Logo.jpg)
+# Project Partners
 
-![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/YouGov-Logo.png)
+![ESRC Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/ESRC%20Logo.jpg) ![YouGov Logo](https://raw.githubusercontent.com/gyob1908/gyob1908.github.io/master/YouGov-Logo.png)
+
