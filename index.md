@@ -8,7 +8,7 @@ title: Oliver Beatson
 
 ### School of Social Statistics
 
-[Biography](https://gyob1908.github.io/bio)
+[Biography](https://gyob1908.github.io/Bio)
 
 [Project](https://gyob1908.github.io/project)
 

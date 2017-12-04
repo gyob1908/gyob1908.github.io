@@ -13,3 +13,6 @@ Survey research is a long-standing method for collecting data that is widely use
 Are there better ways to study attitudes and political preferences than through surveys? Can we find out new insights about political behaviour by studying the websites they use, the tweets they send and the posts they write? Using this “observational data” may allow us to improve on the reliability of surveys by studying mismatches between reported and actual political preferences and activities online.
 
 This PhD will match survey respondents’ online activities; the websites they visit, and their social media data alongside survey responses (including but not limited to the British Election Study) to investigate the link between online activity and answers to YouGov social surveys.
+
+
+Back to [Main Page](https://gyob1908.github.io)
