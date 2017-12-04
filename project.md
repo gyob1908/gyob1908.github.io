@@ -2,10 +2,9 @@
 title: Oliver Beatson - Project
 ---
 
-# Oliver Beatson
+# **Oliver Beatson**
 
 ### University of Manchester
-
 ### School of Social Statistics
 
 # Project Title

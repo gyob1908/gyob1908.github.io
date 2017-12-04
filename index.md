@@ -2,10 +2,9 @@
 title: Oliver Beatson
 ---
 
-# Oliver Beatson
+# **Oliver Beatson**
 
 ### University of Manchester
-
 ### School of Social Statistics
 
 This website has been created as part of the Programming for Social Science module which was based in Leeds and Taught by Andy Evans. Please use the links below to read more about me, the project I'm working on and my Github page.
