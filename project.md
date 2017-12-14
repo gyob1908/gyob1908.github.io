@@ -8,7 +8,7 @@ title: Oliver Beatson - Project
 ### School of Social Statistics
 
 # Research Title
-Evaluating the merits of Survey and Observational Data in National Election Studies
+Evaluating the Merits of Survey and Observational Data in National Election Studies
 
 # Research Description 
 This PhD project will build on the existing 2015 internet module of the [British Election Study](http://britishelectionstudy.com) (iBES) collected by [YouGov](https://yougov.co.uk) that merges survey and observational social media data. The primary goal focuses on evaluating the validity and robustness of each data source as a measure of political attitudes and behaviour.
