@@ -2,6 +2,14 @@
 title: Oliver Beatson - Project
 ---
 
+<!---
+Above code generates title that appears in the tab when on the specific page
+-->
+
+<!---
+Comment section for personal biography. Includes links to external websites - within the brackets
+-->
+
 # **Oliver Beatson**
 
 ### University of Manchester
@@ -16,6 +24,10 @@ This PhD project will build on the existing 2015 internet module of the [British
 Survey research is a long-standing method for collecting data that is widely used by social scientists in their analyses of human behaviour and attitudes. Social media data, drawn from individuals’ news feeds and networks offers an alternative but more unstructured method of collecting large quantities of data to address the same questions. Both methods are subject to problems of representation and bias. Combining the two means that we now have the potential to understand people far better by analysing both what they do (on the internet) with what they say.
 
 This PhD will match survey respondents’ online activities; the websites they visit, and their social media data alongside survey responses (including but not limited to the British Election Study) to investigate the link between online activity and answers to YouGov social surveys.
+
+<!---
+This link returns user to the main page
+-->
 
 
 Back to [Main Page](https://gyob1908.github.io)
