@@ -13,5 +13,9 @@ I have just started an integrated PhD and MSc at the new [Centre for Doctoral Tr
 
 Prior to starting a PhD, I worked as a Data Analyst for Sheffield City Council as part of the Troubled Families Data Team. Before this I studied Politics at Sheffield Hallam University before moving to the University of Sheffield to complete an MSc in Politics with Research Methods.
 
+<!---
+This is intended to be a hidden comment
+-->
+
 
 Back to [Main Page](https://gyob1908.github.io)
